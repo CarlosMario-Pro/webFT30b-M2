@@ -1,0 +1,28 @@
+.botonX{
+    color: white;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    background-color: #e63946;
+    border-radius: 5px;
+    border: none;
+}
+.ciudad{
+    font-size: 50px;
+}
+
+.container1{
+    border-radius: 25px;
+    margin: 30px;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    background-color: #a3b18a;
+    box-shadow: 0 10px 20px 5px #b7b7a4;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
